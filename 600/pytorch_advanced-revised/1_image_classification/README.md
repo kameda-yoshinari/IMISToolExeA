@@ -1,1 +1,3 @@
-Hello world, section 1.
+section 1 image classification  
+... the pytorch_advanced (revised for Google Colaboratory)  
+... provided by KAMEDA Yoshinari.
