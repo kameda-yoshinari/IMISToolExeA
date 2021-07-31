@@ -1,6 +1,16 @@
-(0_Setup)
+**First, you have to run this.**  
 
-* 0-0_pytorch-advanced_setup.ipynb 
+* 600_PyTorchADL.ipynb  
+
+---  
+**Then, you have to run 0-0.**  
+
+(0_Setup)  
+
+* 0-0_pytorch-advanced_setup.ipynb  
+---  
+**After that, you can choose one of the chapters.**  
+Ar each chapter, you should start from the beginning.  
 
 1_image_classification
 
