@@ -1,37 +1,12 @@
+This section covers the python codes from the textbook 「PyTorchで学ぶ発展ディープラーニング」, customized for Google Colaboratory (and Google Drive).  
+[The original github site https://github.com/YutaroOgawa/pytorch_advanced](https://github.com/YutaroOgawa/pytorch_advanced).
+
+---
+
 **First, you have to run this.**  
 
-* 600_PyTorchADL.ipynb  
+* [600_PyTorchADL.ipynb](https://github.com/kameda-yoshinari/IMISToolExeA2021/blob/main/600/600_PyTorchADL.ipynb)  
 
 ---  
-**Then, you have to run 0-0.**  
+Then, you go down to [pytorch_advanced-revised](https://github.com/kameda-yoshinari/IMISToolExeA2021/tree/main/600/pytorch_advanced-revised)  
 
-(0_Setup)  
-
-* 0-0_pytorch-advanced_setup.ipynb  
----  
-**After that, you can choose one of the chapters.**  
-Ar each chapter, you should start from the beginning.  
-
-1_image_classification
-
-* GC1-1_load_vgg  
-* GC1-3_transfer_learning
-* GC1-5_fine_tuning
-
-2_objectdetection  
-
-* GC2-2-0_make_folders_and_data_downloads.ipynb
-* GC2-2-3_Dataset_DataLoader.ipynb
-* GC2-4-5_SSD_model_forward.ipynb
-* GC2-6_loss_function.ipynb
-* GC2-7_SSD_training.ipynb
-* GC2-8_SSD_inference.ipynb
-* GC2-8_SSD_inference_appendix.ipynb
-
-3_semantic_segmentation  
-4_pose_estimation  
-5_gan_generation  
-6_gan_anomaly_detection  
-7_nlp_sentiment_transformer  
-8_nlp_sentiment_bert  
-9_video_classification_eco  
