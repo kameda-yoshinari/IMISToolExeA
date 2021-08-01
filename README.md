@@ -15,7 +15,7 @@ Customized for Google Colaboratory.
 Report4: template of the report this week
 
 ---
-2021/08/02 ... 4th week  
+2021/08/02 ... 5th week  
 
 6xx: A textbook 「PyTorchで学ぶ発展ディープラーニング」(chapter 1-5)
 
