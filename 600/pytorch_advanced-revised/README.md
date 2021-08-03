@@ -3,14 +3,16 @@ Ref: [Original github pytorch_advanced](https://github.com/YutaroOgawa/pytorch_a
 
 ---
 
-You should visit and run [0_0_pytorch_advanced_setup.ipynb](https://github.com/kameda-yoshinari/IMISToolExeA2021/blob/main/600/pytorch_advanced-revised/0_0_pytorch_advanced_setup.ipynb) when you come here for the first time.  
+**Your are asked to visit [set up of 600](https://github.com/kameda-yoshinari/IMISToolExeA2021/tree/main/600) before you start process here.**  
+
+**You should visit and run [0_0_pytorch_advanced_setup.ipynb](https://github.com/kameda-yoshinari/IMISToolExeA2021/blob/main/600/pytorch_advanced-revised/0_0_pytorch_advanced_setup.ipynb) when you come here for the first time.**  
 
 Then you can choose chapters. On each chapter, you should go through ipynb files from the smaller number to the larger, one by one (since some ipynb relies on the previous ipynb).  
 
 ---
 (0_Setup)  
 
-* 0-0_pytorch-advanced_setup.ipynb  
+* [0_0_pytorch_advanced_setup.ipynb](https://github.com/kameda-yoshinari/IMISToolExeA2021/blob/main/600/pytorch_advanced-revised/0_0_pytorch_advanced_setup.ipynb)  
 ---  
 **After that, you can choose one of the chapters.**  
 Ar each chapter, you should start from the beginning.  
