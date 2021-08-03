@@ -99,12 +99,12 @@ def get_IMDb_DataLoaders_and_TEXT(max_length=256, batch_size=24):
 
     # データを読み込んだときに、読み込んだ内容に対して行う処理を定義します
     # max_length
-    TEXT = torchtext.data.Field(sequential=True, tokenize=tokenizer_with_preprocessing, use_vocab=True,
+    TEXT = torchtext.legacy.data.Field(sequential=True, tokenize=tokenizer_with_preprocessing, use_vocab=True,
                                 lower=True, include_lengths=True, batch_first=True, fix_length=max_length, init_token="<cls>", eos_token="<eos>")
-    LABEL = torchtext.data.Field(sequential=False, use_vocab=False)
+    LABEL = torchtext.legacy.data.Field(sequential=False, use_vocab=False)
 
     # フォルダ「data」から各tsvファイルを読み込みます
-    train_val_ds, test_ds = torchtext.data.TabularDataset.splits(
+    train_val_ds, test_ds = torchtext.legacy.data.TabularDataset.splits(
         path='./data/', train='IMDb_train.tsv',
         test='IMDb_test.tsv', format='tsv',
         fields=[('Text', TEXT), ('Label', LABEL)])
@@ -120,13 +120,13 @@ def get_IMDb_DataLoaders_and_TEXT(max_length=256, batch_size=24):
     TEXT.build_vocab(train_ds, vectors=english_fasttext_vectors, min_freq=10)
 
     # DataLoaderを作成します（torchtextの文脈では単純にiteraterと呼ばれています）
-    train_dl = torchtext.data.Iterator(
+    train_dl = torchtext.legacy.data.Iterator(
         train_ds, batch_size=batch_size, train=True)
 
-    val_dl = torchtext.data.Iterator(
+    val_dl = torchtext.legacy.data.Iterator(
         val_ds, batch_size=batch_size, train=False, sort=False)
 
-    test_dl = torchtext.data.Iterator(
+    test_dl = torchtext.legacy.data.Iterator(
         test_ds, batch_size=batch_size, train=False, sort=False)
 
     return train_dl, val_dl, test_dl, TEXT
