@@ -1,10 +1,10 @@
-# IMISToolExeA2021  
+# IMISToolExeA2022  
 
-Course material for students who will have [IMIS Tool A(01CK916 知能システムツール演習a)](https://kdb.tsukuba.ac.jp/syllabi/2021/01CK916/jpn/) at the grad school of University of Tsukuba.  
+Course material for students who will have [IMIS Tool A(0ALE005 知能システムツール演習a)](https://kdb.tsukuba.ac.jp/syllabi/2022/0ALE005/jpn/) at the grad school of University of Tsukuba.  
 Customized for Google Colaboratory.  
 
 ---
-2021/07/26 ... 4th week  
+2022/08/01 ... 4th week  
 
 100: google colab general  
 200: google colab local  
@@ -15,9 +15,9 @@ Customized for Google Colaboratory.
 Report4: template of the report this week
 
 ---
-2021/08/02 ... 5th week  
+2022/08/08 ... 5th week  
 
-6xx: A textbook 「PyTorchで学ぶ発展ディープラーニング」(chapter 1-5)
+6xx: A textbook 「PyTorchで学ぶ発展ディープラーニング」(chapter 1-8)
 
 Report5: template of the report this week  
 
