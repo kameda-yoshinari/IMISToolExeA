@@ -10,7 +10,7 @@ Customized for Google Colaboratory.
 200: google colab local  
 300: python, numpy, and pytorch  
 4xx: A textbook 「ゼロから作るDeep Learning」  
-500: A online course text of Deep learning by chainer  
+500: (Deleted as chainer is obsolute)  
 
 Report4: template of the report this week
 
