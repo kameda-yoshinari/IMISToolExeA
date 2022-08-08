@@ -12,13 +12,13 @@ Customized for Google Colaboratory.
 4xx: A textbook 「ゼロから作るDeep Learning」  
 500: (Deleted as chainer is obsolute)  
 
-Report4: template of the report this week
+Report/Report4: template of the report this week
 
 ---
 2022/08/08 ... 5th week  
 
 6xx: A textbook 「PyTorchで学ぶ発展ディープラーニング」(chapter 1-8)
 
-Report5: template of the report this week  
+Report/Report5: template of the report this week  
 
 ---
