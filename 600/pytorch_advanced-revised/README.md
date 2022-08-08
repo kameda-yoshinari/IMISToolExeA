@@ -11,7 +11,8 @@ Ref: [Original github pytorch_advanced](https://github.com/YutaroOgawa/pytorch_a
 
 **You should visit and run [0_0_pytorch_advanced_setup.ipynb](https://github.com/kameda-yoshinari/IMISToolExeA2021/blob/main/600/pytorch_advanced-revised/0_0_pytorch_advanced_setup.ipynb) when you come here for the first time.**  
 
-Then you can choose chapters. On each chapter, you should go through ipynb files from the smaller number to the larger, one by one (since some ipynb relies on the previous ipynb).  
+Then you can choose chapters, but I  strongly recommend you to go from Chapter 1 to larger as some chapters have dependencies to the previsous chapter. 
+On each chapter, you should go through ipynb files from the smaller number to the larger, one by one (since some ipynb relies on the previous ipynb).  
 
 ---  
 
@@ -19,8 +20,8 @@ Then you can choose chapters. On each chapter, you should go through ipynb files
 
 * [0_0_pytorch_advanced_setup.ipynb](https://github.com/kameda-yoshinari/IMISToolExeA2021/blob/main/600/pytorch_advanced-revised/0_0_pytorch_advanced_setup.ipynb)  
 ---  
-**After that, you can choose one of the chapters.**  
-Ar each chapter, you should start from the beginning.  
+**After the set up by 0_0_pytorch_advanced_setup.ipynb,** you can choose one of the chapters (yet you'd better start from 1 to 8 in the order).  
+Ar each chapter, you should start from the beginning (smaller number ipynb).  
 
 1_image_classification  
 2_objectdetection  
@@ -29,3 +30,4 @@ Ar each chapter, you should start from the beginning.
 5_gan_generation  
 6_gan_anomaly_detection  
 7_nlp_sentiment_transformer  
+8_nlp_sentiment_bert  
