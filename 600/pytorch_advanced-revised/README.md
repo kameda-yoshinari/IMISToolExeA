@@ -1,4 +1,4 @@
-Top directory of the pytoech_advanced, revised for Google Colaboratory use (for giving a course in University of Tsukuba).  
+Top directory of the pytoech_advanced, revised for Google Colaboratory use (for giving a course in University of Tsukuba as of August 2022).  
 [The original github pytorch_advanced](https://github.com/YutaroOgawa/pytorch_advanced) is given by Ogawa Yutaro.  
 
 ---
