@@ -10,7 +10,7 @@ Customized for Google Colaboratory.
 [200: google colab local](https://github.com/kameda-yoshinari/IMISToolExeA/blob/main/200_ColabTweak.ipynb)  
 [300: python, numpy, and pytorch](https://github.com/kameda-yoshinari/IMISToolExeA/blob/main/300_PyTorch.ipynb)  
 [4xx: A textbook 「ゼロから作るDeep Learning」](https://github.com/kameda-yoshinari/IMISToolExeA/tree/main/400)  
-[500: (Deleted as chainer is obsolute)] (https://ja.wikipedia.org/wiki/Chainer) 
+[500: (Deleted as chainer is obsolute)](https://ja.wikipedia.org/wiki/Chainer)   
 
 [Report/Report4: template of the report this week](https://github.com/kameda-yoshinari/IMISToolExeA/tree/main/Report)
 
