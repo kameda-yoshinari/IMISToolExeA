@@ -6,19 +6,19 @@ Customized for Google Colaboratory.
 ---
 2023/07/31 ... 4th week  
 
-100: google colab general  
-200: google colab local  
-300: python, numpy, and pytorch  
-4xx: A textbook 「ゼロから作るDeep Learning」  
-500: (Deleted as chainer is obsolute)  
+[100: google colab general](https://github.com/kameda-yoshinari/IMISToolExeA/blob/main/100_ColabTutorial.ipynb)  
+[200: google colab local](https://github.com/kameda-yoshinari/IMISToolExeA/blob/main/200_ColabTweak.ipynb)  
+[300: python, numpy, and pytorch](https://github.com/kameda-yoshinari/IMISToolExeA/blob/main/300_PyTorch.ipynb)  
+[4xx: A textbook 「ゼロから作るDeep Learning」](https://github.com/kameda-yoshinari/IMISToolExeA/tree/main/400)  
+[500: (Deleted as chainer is obsolute)]  
 
-Report/Report4: template of the report this week
+[Report/Report4: template of the report this week](https://github.com/kameda-yoshinari/IMISToolExeA/tree/main/Report)
 
 ---
 2023/08/07 ... 5th week  
 
-6xx: A textbook 「PyTorchで学ぶ発展ディープラーニング」(chapter 1-8)
+[6xx: A textbook 「PyTorchで学ぶ発展ディープラーニング」(chapter 1-8)](https://github.com/kameda-yoshinari/IMISToolExeA/tree/main/600)
 
-Report/Report5: template of the report this week  
+[Report/Report5: template of the report this week](https://github.com/kameda-yoshinari/IMISToolExeA/tree/main/Report)  
 
 ---
