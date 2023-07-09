@@ -1,6 +1,8 @@
 # IMISToolExeA (As of AY2023)  
 
-Course material for students who will have [IMIS Tool A(0ALE005 知能システムツール演習a)](https://kdb.tsukuba.ac.jp/syllabi/2023/0ALE005/jpn/) at the grad school of University of Tsukuba.  
+The course material for students who will have [IMIS Tool A(0ALE005 知能システムツール演習a)](https://kdb.tsukuba.ac.jp/syllabi/2023/0ALE005/jpn/) at the grad school of University of Tsukuba.  
+Also for [EMP Exercise of Machine Learning(0AL5707 機械学習演習)](https://kdb.tsukuba.ac.jp/syllabi/2023/0AL5707/eng/)
+
 Customized for Google Colaboratory.  
 
 ---
