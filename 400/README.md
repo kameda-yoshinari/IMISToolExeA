@@ -3,7 +3,7 @@ The book content is accessble at the course manaba.
 
 ---
 
-First you should visit [400_DeepLearningFromScratch.ipynb](https://github.com/kameda-yoshinari/IMISToolExeA2021/blob/main/400/400_DeepLearningFromScratch.ipynb) to prepare the working folder on your google drive.　　
+First you should visit [400_DeepLearningFromScratch.ipynb](https://github.com/kameda-yoshinari/IMISToolExeA2021/blob/main/400/400_DeepLearningFromScratch.ipynb) to prepare the working folder on your google drive.  
 Note that the study here needs about 70MB on your google drive.
 
 ---
