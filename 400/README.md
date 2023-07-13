@@ -8,4 +8,4 @@ Note that the study here needs about 70MB on your google drive.
 
 ---
 
-Then you visit the ipynb files starting from the No.100 to the larger to follow the book reading.
+Then you visit the ipynb files starting from the No.410 to the larger to follow the book reading.
