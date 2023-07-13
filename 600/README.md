@@ -1,6 +1,6 @@
 This section covers the python codes from the textbook 「PyTorchで学ぶ発展ディープラーニング」, customized for Google Colaboratory (and Google Drive).  
 [The original github site https://github.com/YutaroOgawa/pytorch_advanced](https://github.com/YutaroOgawa/pytorch_advanced).  
-The course text is accessble at the course manaba.  
+The book content is accessble at the course manaba.  
 
 ---
 
