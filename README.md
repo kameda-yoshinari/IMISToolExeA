@@ -5,6 +5,8 @@ Also for [EMP Exercise of Machine Learning(0AL5707 機械学習演習)](https://
 
 Customized for Google Colaboratory.  
 
+If you want to see Japanese version, just open the same google colaboratory on your second browser (Google chrome recommended), and ask "Japanese" on the page.
+
 ---
 2023/07/31 ... 4th week  
 
@@ -18,6 +20,8 @@ Customized for Google Colaboratory.
 
 ---
 2023/08/07 ... 5th week  
+
+[700: PyTorch Practice of Image Classification by Computer Vision](https://ja.wikipedia.org/wiki/Chainer)   
 
 [6xx: A textbook 「PyTorchで学ぶ発展ディープラーニング」(chapter 1-8)](https://github.com/kameda-yoshinari/IMISToolExeA/tree/main/600)
 
