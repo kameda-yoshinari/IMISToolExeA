@@ -22,7 +22,6 @@ If you want to see Japanese version, just open the same google colaboratory on y
 2023/08/07 ... 5th week  
 
 [700: PyTorch Practice of Image Classification by Computer Vision](https://github.com/kameda-yoshinari/IMISToolExeA/blob/main/700_PyPorchPractice.ipynb)   
-
 [6xx: A textbook 「PyTorchで学ぶ発展ディープラーニング」(chapter 1-8)](https://github.com/kameda-yoshinari/IMISToolExeA/tree/main/600)
 
 [Report/Report5: template of the report this week](https://github.com/kameda-yoshinari/IMISToolExeA/tree/main/Report)  
