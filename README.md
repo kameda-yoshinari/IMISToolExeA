@@ -1,4 +1,4 @@
-# IMISToolExeA (As of AY2025)  
+# IMISToolExeA (As of AY2026)  
 
 The course material for students who will have [IMIS Tool A(0ALE005 知能システムツール演習a)](https://kdb.tsukuba.ac.jp/syllabi/2025/0ALE005/jpn/) at the grad school of University of Tsukuba.  
 Also for [EMP Exercise of Machine Learning(0AL5707 機械学習演習)](https://kdb.tsukuba.ac.jp/syllabi/2025/0AL5707/eng/).  
@@ -13,6 +13,8 @@ If you want to see Japanese version, just open the same google colaboratory on y
 [100: google colab general](https://github.com/kameda-yoshinari/IMISToolExeA/blob/main/100_ColabTutorial.ipynb)  
 [200: google colab local](https://github.com/kameda-yoshinari/IMISToolExeA/blob/main/200_ColabTweak.ipynb)  
 [300: python, numpy, and pytorch](https://github.com/kameda-yoshinari/IMISToolExeA/blob/main/300_PyTorch.ipynb)  
+[80X: miniGPT](https://github.com/kameda-yoshinari/IMISToolExeA/blob/main/)  
+
 [4xx: A textbook 「ゼロから作るDeep Learning」](https://github.com/kameda-yoshinari/IMISToolExeA/tree/main/400)  for further study  
 [500: (Deleted as chainer is obsolute)](https://ja.wikipedia.org/wiki/Chainer)   
 
