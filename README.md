@@ -16,7 +16,7 @@ If you want to see Japanese version, just open the same google colaboratory on y
 [4xx: A textbook 「ゼロから作るDeep Learning」](https://github.com/kameda-yoshinari/IMISToolExeA/tree/main/400)  for further study  
 [500: (Deleted as chainer is obsolute)](https://ja.wikipedia.org/wiki/Chainer)   
 
-[Report/Report4: template of the report this week](https://github.com/kameda-yoshinari/IMISToolExeA/tree/main/Report)
+[Report/Report4: template of the report this week] (TBD)
 
 ---
 2025/08/04 ... 5th week  
