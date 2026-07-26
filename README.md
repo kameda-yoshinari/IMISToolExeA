@@ -8,7 +8,7 @@ Customized for Google Colaboratory.
 If you want to see Japanese version, just open the same google colaboratory on your second browser (Google chrome recommended), and ask "Japanese" on the page.
 
 ---
-2025/07/28 ... 4th week  
+2026/07/27 ... 4th week  
 
 [100: google colab general](https://github.com/kameda-yoshinari/IMISToolExeA/blob/main/100_ColabTutorial.ipynb)  
 [200: google colab local](https://github.com/kameda-yoshinari/IMISToolExeA/blob/main/200_ColabTweak.ipynb)  
@@ -19,7 +19,7 @@ If you want to see Japanese version, just open the same google colaboratory on y
 [Report/Report4: template of the report this week] (TBD)
 
 ---
-2025/08/04 ... 5th week  
+2026/08/03 ... 5th week  
 
 [6xx: A textbook 「PyTorchで学ぶ発展ディープラーニング」(chapter 1-8)](https://github.com/kameda-yoshinari/IMISToolExeA/tree/main/600) for further study  
 [700: PyTorch Practice of Image Classification by Computer Vision](https://github.com/kameda-yoshinari/IMISToolExeA/blob/main/700_PyPorchPractice.ipynb)   
