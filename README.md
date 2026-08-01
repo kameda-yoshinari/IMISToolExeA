@@ -18,14 +18,14 @@ If you want to see Japanese version, just open the same google colaboratory on y
 [4xx: A textbook 「ゼロから作るDeep Learning」](https://github.com/kameda-yoshinari/IMISToolExeA/tree/main/400)  for further study  
 [500: (Deleted as chainer is obsolute)](https://ja.wikipedia.org/wiki/Chainer)   
 
-[Report/Report4: template of the report this week] (TBD)
+[Report/Report4: template of the report this week]
 
 ---
 2026/08/03 ... 5th week  
 
 [6xx: A textbook 「PyTorchで学ぶ発展ディープラーニング」(chapter 1-8)](https://github.com/kameda-yoshinari/IMISToolExeA/tree/main/600) for further study  
-[700: PyTorch Practice of Image Classification by Computer Vision](https://github.com/kameda-yoshinari/IMISToolExeA/blob/main/700_PyPorchPractice.ipynb)   
+[701: PyTorch Practice of Image Classification by Computer Vision](https://github.com/kameda-yoshinari/IMISToolExeA/tree/main/700/701_PyPorchPractice.ipynb)   
 
-[Report/Report5: template of the report this week] (TBD)  
+[Report/Report5: template of the report this week]  
 
 ---
